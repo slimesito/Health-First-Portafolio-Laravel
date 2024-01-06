@@ -1,66 +1,59 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a><img src="https://i.ibb.co/CKz2Fs5/homepage.jpg" alt="Homepage"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## Health-First
 
-## About Laravel
+Esta sitio web fue creado para permitir a pacientes hospitalarios agendar citas médicas, al mismo tiempo permite a los administradores tener un listado detallado de las citas médicas que los pacientes han solicitado, así como también un listado detallado de los doctores registrados en la base de datos, permite agregar nuevos doctores y mostrarlos en la página web.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<br>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<p align="center"><a><img src="https://i.ibb.co/CKz2Fs5/homepage.jpg" width="800" alt="Homepage"></a></p>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<br>
 
-## Learning Laravel
+## Atributos 📃
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+A continuación se muestra una lista detallada de cada uno de los atributos con los que cuenta el sitio web:
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+- Login y Registro de Usuarios.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<p align="center"><a><img src="https://i.ibb.co/fMVPBCY/login.jpg" width="800" alt="Login"></a></p>
 
-## Laravel Sponsors
+<p align="center"><a><img src="https://i.ibb.co/DWR4C1z/register.jpg" width="800" alt="Register"></a></p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- Inicio de Sesión de usuarios Pacientes.
 
-### Premium Partners
+<p align="center"><a><img src="https://i.ibb.co/x8ZbnFy/dashboard-paciente.jpg" width="800" alt="Dashboard Pacientes"></a></p>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+<br>
 
-## Contributing
+- Formulario para agendar Citas.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<p align="center"><a><img src="https://i.ibb.co/YDdytxm/formulario-solicitud-cita.jpg" width="800" alt="Formulario Citas"></a></p>
 
-## Code of Conduct
+Cita Agendada:
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+<p align="center"><a><img src="https://i.ibb.co/b3BrpT1/cita-agendada.jpg" width="800" alt="Cita Agendada"></a></p>
 
-## Security Vulnerabilities
+- Listado de Citas.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+<p align="center"><a><img src="https://i.ibb.co/QfdHLmc/citas-pacientes.jpg" width="800" alt="Listado Citas"></a></p>
 
-## License
+- Inicio de Sesión de Usuario Administrador:
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p align="center"><a><img src="https://i.ibb.co/ykrBTTK/homepage-admin.jpg" width="800" alt="Inicio Sesión Admin"></a></p>
+
+- Dashboard para Administradores y listado de los doctores registrados en la Base de Datos.
+
+<p align="center"><a><img src="https://i.ibb.co/HrM5961/admin-dashboard-listado-doctores.jpg" width="800" alt="Listado Doctores Admin Dashboard"></a></p>
+
+- Formulario para agregar Nuevos Doctores.
+
+<p align="center"><a><img src="https://i.ibb.co/2n8SkJz/formulario-nuevo-doctor.jpg" width="800" alt="Formulario Nuevos Doctores"></a></p>
+
+- Administrador de Citas Médicas.
+
+<p align="center"><a><img src="https://i.ibb.co/yPsfRBV/listado-citas-admin.jpg" width="800" alt="Administrador de Citas Médicas"></a></p>
+
+- Apartado de los Doctores Registrados en la Base de Datos:
+
+<p align="center"><a><img src="https://i.ibb.co/M2yLJVq/especialistas.jpg" width="800" alt="Especialistas"></a></p>
